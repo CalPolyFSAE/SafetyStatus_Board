@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[TSAL_PCB(2024).GTO]
+   Generated File[TSAL_PCB(2024).GTP]
+   Generated File[TSAL_PCB(2024).GTS]
+   Generated File[TSAL_PCB(2024).GTL]
+   Generated File[TSAL_PCB(2024).GBL]
+   Generated File[TSAL_PCB(2024).GBS]
+   Generated File[TSAL_PCB(2024).GBP]
+   Generated File[TSAL_PCB(2024).GBO]
+   Generated File[TSAL_PCB(2024).GM13]
+   Generated File[TSAL_PCB(2024).GM]
+   Generated File[TSAL_PCB(2024).EXTREP]
+   Generated File[TSAL_PCB(2024).REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 6:58:27 PM On 9/14/2023

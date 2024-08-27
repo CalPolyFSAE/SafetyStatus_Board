@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: TSAL_PCB(2024).GBR   9/14/2023  6:58:27 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Board Layer Stack Top Overlay           
+.GTP                Top Paste                               
+.GTS                Board Layer Stack Top Solder            
+.GTL                Top Layer                               
+.GBL                Bottom Layer                            
+.GBS                Board Layer Stack Bottom Solder         
+.GBP                Bottom Paste                            
+.GBO                Board Layer Stack Bottom Overlay        
+.GM13               Mechanical 13                           
+.GM                 Profile                                 
+------------------------------------------------------------------------------------------

@@ -1,0 +1,212 @@
+Added Component: Designator=C1(0603_CAP)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Percent Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1u"; VariantName = "[No Variations]"
+Added Component: Designator=C2(0603_CAP)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Percent Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1u"; VariantName = "[No Variations]"
+Added Component: Designator=C3(0603_CAP)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Percent Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10n"; VariantName = "[No Variations]"
+Added Component: Designator=D?(0805_LED)
+Added Component: Designator=D?(0805_LED)
+Added Component: Designator=D?(0805_LED)
+Added Component: Designator=D?(0805_LED)
+Added Component: Designator=D?(0805_LED)
+Added Component: Designator=D?(0805_LED)
+Added Component: Designator=D?(0805_LED)
+Added Component: Designator=D?(0805_LED)
+Added Component: Designator=D?(0805_LED)
+Added Component: Designator=D?(0805_LED)
+Added Component: Designator=D?(0805_LED)
+Added Component: Designator=D?(0805_LED)
+Added Component: Designator=D?(0805_LED)
+Added Component: Designator=D?(0805_LED)
+Added Component: Designator=D?(0805_LED)
+Add Component: Footprint Not Found SOT23-3
+Add Component: Footprint Not Found SOT23-3
+Add Component: Footprint Not Found SOT23-3
+Added Component: Designator=R1(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R2(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R3(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220"; VariantName = "[No Variations]"
+Added Component: Designator=R4(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R5(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R6(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R7(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220"; VariantName = "[No Variations]"
+Added Component: Designator=R8(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R9(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R11(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "500"; VariantName = "[No Variations]"
+Added Component: Designator=R12(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "445"; VariantName = "[No Variations]"
+Added Component: Designator=R13(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "445"; VariantName = "[No Variations]"
+Added Component: Designator=R14(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "500"; VariantName = "[No Variations]"
+Added Component: Designator=R15(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "445"; VariantName = "[No Variations]"
+Added Component: Designator=R16(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "500"; VariantName = "[No Variations]"
+Added Component: Designator=R17(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "445"; VariantName = "[No Variations]"
+Added Component: Designator=R18(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "500"; VariantName = "[No Variations]"
+Added Component: Designator=R19(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "445"; VariantName = "[No Variations]"
+Added Component: Designator=R20(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "500"; VariantName = "[No Variations]"
+Added Component: Designator=R21(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "445"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "500"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "500"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "500"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0603_RES)
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "500"; VariantName = "[No Variations]"
+Added Component: Designator=U1(SOIC-8)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/texas-instruments/NA555DR/1571933"; VariantName = "[No Variations]"
+Added Component: Designator=X1(GenericPinHeader(.1in))
+Added Component: Designator=X2(GenericPinHeader(.1in))
+Added Component: Designator=X3(GenericPinHeader(.1in))
+Added Component: Designator=X4(GenericPinHeader(.1in))
+Added Component: Designator=X5(GenericPinHeader(.1in))
+Added Component: Designator=X6(GenericPinHeader(.1in))
+Added Pin To Net: NetName=+12 Pin=R1-1
+Added Pin To Net: NetName=+12 Pin=R11-2
+Added Pin To Net: NetName=+12 Pin=R12-2
+Added Pin To Net: NetName=+12 Pin=R13-2
+Added Pin To Net: NetName=+12 Pin=R14-2
+Added Pin To Net: NetName=+12 Pin=R15-2
+Added Pin To Net: NetName=+12 Pin=R16-2
+Added Pin To Net: NetName=+12 Pin=R17-2
+Added Pin To Net: NetName=+12 Pin=R18-2
+Added Pin To Net: NetName=+12 Pin=R19-2
+Added Pin To Net: NetName=+12 Pin=R20-2
+Added Pin To Net: NetName=+12 Pin=R21-2
+Added Pin To Net: NetName=+12 Pin=R?-2
+Added Pin To Net: NetName=+12 Pin=R?-2
+Added Pin To Net: NetName=+12 Pin=R?-2
+Added Pin To Net: NetName=+12 Pin=R?-2
+Added Pin To Net: NetName=+12 Pin=X3-1
+Added Pin To Net: NetName=+12 Pin=X5-1
+Added Net: Name=+12
+Added Pin To Net: NetName=555-OUTPUT Pin=R7-1
+Added Pin To Net: NetName=555-OUTPUT Pin=U1-3
+Added Net: Name=555-OUTPUT
+Added Pin To Net: NetName=GND-PIN Pin=C1-1
+Added Pin To Net: NetName=GND-PIN Pin=C2-1
+Added Pin To Net: NetName=GND-PIN Pin=C3-1
+Added Pin To Net: NetName=GND-PIN Pin=R2-2
+Added Pin To Net: NetName=GND-PIN Pin=R4-2
+Added Pin To Net: NetName=GND-PIN Pin=R8-2
+Added Pin To Net: NetName=GND-PIN Pin=U1-1
+Added Pin To Net: NetName=GND-PIN Pin=X4-1
+Added Net: Name=GND-PIN
+Added Pin To Net: NetName=Green Pin=D?-2
+Added Pin To Net: NetName=Green Pin=D?-2
+Added Pin To Net: NetName=Green Pin=D?-2
+Added Pin To Net: NetName=Green Pin=D?-2
+Added Pin To Net: NetName=Green Pin=D?-2
+Added Pin To Net: NetName=Green Pin=D?-2
+Added Pin To Net: NetName=Green Pin=X1-1
+Added Net: Name=Green
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=R9-1
+Added Pin To Net: NetName=NetC2_2 Pin=U1-2
+Added Pin To Net: NetName=NetC2_2 Pin=U1-6
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=U1-5
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=R20-1
+Added Net: Name=NetD?_1
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_1" already exists
+Added Pin To Net: NetName=NetQ2_1 Pin=R3-2
+Added Pin To Net: NetName=NetQ2_1 Pin=R4-1
+Added Net: Name=NetQ2_1
+Added Pin To Net: NetName=NetQ3_1 Pin=R7-2
+Added Pin To Net: NetName=NetQ3_1 Pin=R8-1
+Added Net: Name=NetQ3_1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=R6-2
+Added Pin To Net: NetName=NetR5_1 Pin=U1-7
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=R9-2
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NOT-TO-RED-FET Pin=R1-2
+Added Pin To Net: NetName=NOT-TO-RED-FET Pin=R2-1
+Added Net: Name=NOT-TO-RED-FET
+Added Pin To Net: NetName=Red Pin=D?-2
+Added Pin To Net: NetName=Red Pin=D?-2
+Added Pin To Net: NetName=Red Pin=D?-2
+Added Pin To Net: NetName=Red Pin=D?-2
+Added Pin To Net: NetName=Red Pin=D?-2
+Added Pin To Net: NetName=Red Pin=D?-2
+Added Pin To Net: NetName=Red Pin=X6-1
+Added Net: Name=Red
+Added Pin To Net: NetName=TSLIVE-SIGNAL Pin=C1-2
+Added Pin To Net: NetName=TSLIVE-SIGNAL Pin=R3-1
+Added Pin To Net: NetName=TSLIVE-SIGNAL Pin=R5-2
+Added Pin To Net: NetName=TSLIVE-SIGNAL Pin=U1-4
+Added Pin To Net: NetName=TSLIVE-SIGNAL Pin=U1-8
+Added Pin To Net: NetName=TSLIVE-SIGNAL Pin=X2-1
+Added Net: Name=TSLIVE-SIGNAL
+Added Class: Name=SafetyStatus(2025)
+Added Class: Name=U_RGB_LEDs
+Added Room: Name=SafetyStatus(2025)
